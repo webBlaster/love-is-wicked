@@ -76,7 +76,7 @@ export default function ElevatedRomanticPage() {
             </h1>
             <p className="text-lg sm:text-xl md:text-2xl lg:text-3xl mb-6 text-pretty text-muted-foreground font-light leading-relaxed max-w-3xl mx-auto px-2">
               With you, even ordinary moments feel special. I can only imagine
-              how beautiful life would be walking this journey with you
+              how beautiful life would be walking this journey together.
             </p>
           </div>
         </div>
@@ -93,7 +93,7 @@ export default function ElevatedRomanticPage() {
               <div className="absolute -inset-2 sm:-inset-4 bg-gradient-to-r from-primary/20 to-accent/20 rounded-2xl sm:rounded-3xl blur-xl animate-pulse-glow"></div>
               <Card className="relative overflow-hidden shadow-2xl border-2 border-primary/20 bg-card/95 backdrop-blur-sm">
                 <CardContent className="p-1 sm:p-2">
-                  <div className="relative h-[300px] sm:h-[400px] md:h-[500px] lg:h-[600px] rounded-xl sm:rounded-2xl overflow-hidden group">
+                  <div className="relative h-[700px] sm:h-[700px] md:h-[700px] lg:h-[800px] rounded-xl sm:rounded-2xl overflow-hidden group">
                     <img
                       src="/person-babe.jpeg"
                       alt="Beautiful portrait"
