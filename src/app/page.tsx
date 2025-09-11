@@ -142,25 +142,34 @@ export default function ElevatedRomanticPage() {
 
                   <div className="bg-gradient-to-r from-primary/10 via-accent/10 to-secondary/10 rounded-xl sm:rounded-2xl p-4 sm:p-6 md:p-8 space-y-4 sm:space-y-6 border border-primary/20">
                     <h3 className="font-playfair text-lg sm:text-xl md:text-2xl font-semibold text-primary text-center mb-4 sm:mb-6">
-                      Our Beautiful Future Together
+                      Our Beautiful Future Together ✨💕
                     </h3>
                     <div className="grid gap-3 sm:gap-4">
                       <div className="flex items-center gap-3 sm:gap-4 p-3 sm:p-4 bg-white/50 rounded-lg sm:rounded-xl">
-                        <Coffee className="w-6 h-6 sm:w-8 sm:h-8 text-primary flex-shrink-0" />
+                        <div className="w-6 h-6 sm:w-8 sm:h-8 flex items-center justify-center text-lg sm:text-xl flex-shrink-0">
+                          📚
+                        </div>
                         <span className="text-sm sm:text-base md:text-lg font-medium text-card-foreground">
-                          Romantic dates and adventures
+                          📖💙 Writing our love story one beautiful chapter at a
+                          time.
                         </span>
                       </div>
                       <div className="flex items-center gap-3 sm:gap-4 p-3 sm:p-4 bg-white/50 rounded-lg sm:rounded-xl">
-                        <Music className="w-6 h-6 sm:w-8 sm:h-8 text-accent flex-shrink-0" />
+                        <div className="w-6 h-6 sm:w-8 sm:h-8 flex items-center justify-center text-lg sm:text-xl flex-shrink-0">
+                          🎶
+                        </div>
                         <span className="text-sm sm:text-base md:text-lg text-card-foreground">
-                          Dancing in the rain
+                          🎵😄 ⁠Filling our days with joy, music, and shared
+                          laughter.
                         </span>
                       </div>
                       <div className="flex items-center gap-3 sm:gap-4 p-3 sm:p-4 bg-white/50 rounded-lg sm:rounded-xl">
-                        <Heart className="w-6 h-6 sm:w-8 sm:h-8 text-primary fill-current flex-shrink-0" />
+                        <div className="w-6 h-6 sm:w-8 sm:h-8 flex items-center justify-center text-lg sm:text-xl flex-shrink-0">
+                          🌿
+                        </div>
                         <span className="text-sm sm:text-base md:text-lg text-card-foreground">
-                          Making the most out of life being a family
+                          🌱🤝 Growing together, hand in hand, through every
+                          season of life.
                         </span>
                       </div>
                     </div>
